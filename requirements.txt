@@ -1,0 +1,8 @@
+
+streamlit
+googlesearch-python
+duckduckgo_search
+requests
+beautifulsoup4
+tldextract
+openai
